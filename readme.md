@@ -1,4 +1,4 @@
-```
+
 # Neural Style Transfer with TensorFlow
 
 This project implements Neural Style Transfer (NST) using TensorFlow and VGG19. It enables blending artistic styles with content images to create visually stunning outputs. The implementation includes advanced techniques like total variation loss, multi-layer feature extraction, and post-processing for enhanced image quality.
