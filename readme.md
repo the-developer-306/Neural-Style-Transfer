@@ -65,10 +65,10 @@ Project Structure
 ```
 .
 ├── images/
-│   ├── content.jpg                 # Input content image
-│   ├── style.jpg                   # Input style image
-│   └── output/                     # Directory for generated images
+│   ├── content-images              # Directory for content images
+│   ├── style-images                # Directory for images
 ├── neural-style-transfer.ipynb     # Main script for NST
+│── enhanced_output                 # Generated image(output)
 └── README.md                       # Project documentation
 
 ```
@@ -82,7 +82,7 @@ Below are sample outputs from the project:
 
 | Content Image | Style Image | Generated Image |
 | --- | --- | --- |
-| ![Content](https://chatgpt.com/c/images/content.jpg) | ![Style](https://chatgpt.com/c/images/style.jpg) | ![Generated](https://chatgpt.com/c/images/output/generated.jpg) |
+| ![Content](images/content-images/lion.jpg) | ![Style](images/style-images/udnie.jpg) | ![Generated](enhanced_output.png) |
 
 * * * * *
 
