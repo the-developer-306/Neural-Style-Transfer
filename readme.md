@@ -65,13 +65,11 @@ Project Structure
 ```
 .
 ├── images/
-│   ├── content.jpg           # Input content image
-│   ├── style.jpg             # Input style image
-│   └── output/               # Directory for generated images
-├── main.py                   # Main script for NST
-├── utils.py                  # Utility functions for processing and enhancement
-├── requirements.txt          # Python dependencies
-└── README.md                 # Project documentation
+│   ├── content.jpg                 # Input content image
+│   ├── style.jpg                   # Input style image
+│   └── output/                     # Directory for generated images
+├── neural-style-transfer.ipynb     # Main script for NST
+└── README.md                       # Project documentation
 
 ```
 
