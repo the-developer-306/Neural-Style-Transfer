@@ -37,7 +37,6 @@ Usage
 ```
 git clone https://github.com/yourusername/neural-style-transfer.git
 cd neural-style-transfer
-
 ```
 
 ### 2\. Run the Script
@@ -45,8 +44,7 @@ cd neural-style-transfer
 Prepare your content and style images in the `images` directory. Then, execute the script:
 
 ```
-python main.py
-
+neural-style-transfer.ipynb
 ```
 
 ### 3\. Adjust Parameters
